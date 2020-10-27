@@ -13,6 +13,29 @@ I'm currently working on Web Applications for businesses using
 <a markdown="1" href="" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.uPL1uCtLBRSk6akPL2hNzgHaER%26pid%3DApi&f=1" alt="Express Image" markdown="1" height="112" width="200" /></a>
 <a markdown="1" href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.qinvWxQcpltLC7YM26ds8gHaD8%26pid%3DApi&f=1" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.iAqskuCX6LTXErqLPXwFwwHaDt%26pid%3DApi&f=1" alt="Node.js Image" markdown="1" height="112" width="200" /></a>
 
+
+
+Account age: {{ ACCOUNT_AGE }} years
+
+Pushed {{ COMMITS }} commits
+
+Opened {{ ISSUES }} issues
+
+Submitted {{ PULL_REQUESTS }} pull requests
+
+Received {{ STARS }} stars
+
+Own {{ REPOSITORIES }} repositories
+
+Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
+
+Top 8 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
+Top 4 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START:max=4 }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
 <!--
 **graysonm23/graysonm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
