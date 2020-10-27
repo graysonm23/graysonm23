@@ -3,6 +3,7 @@
 
 I'm Grayson
 
+
 <img markdown="1" src="https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif" width="40" height="40" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,7 +12,7 @@ I'm Grayson
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/grayson-mcmurry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="grayson-mcmurry" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/graysonmcm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="graysonmcm" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12965111/graysonmcm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="graysonmcm" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/grayson_mcmurry1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="grayson_mcmurry1" height="30" width="40" /></a>
 </p>
 
