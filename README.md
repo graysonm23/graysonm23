@@ -17,8 +17,7 @@ I'm Grayson
 </p>
 
 
-<a href="https://github.com/graysonm23">
-<img align="center" alt="grayson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=graysonm23&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=compact" /></a>
+![Grayson's github stats](https://github-readme-stats.vercel.app/api?username=graysonm23&count_private=true&theme=compact)
 
 <a href="https://github.com/graysonm23">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=graysonm23&layout=compact&theme=compact" />
