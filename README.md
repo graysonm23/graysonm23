@@ -17,6 +17,8 @@ I'm Grayson
 </p>
 
 
+<a href="https://app.daily.dev/Grayson"><img src="https://api.daily.dev/devcards/4164863e20114b79ba1beff649053be4.png?r=hjd" width="400" alt="Grayson McMurry's Dev Card"/></a>
+
 ![Grayson's github stats](https://github-readme-stats.vercel.app/api?username=graysonm23&count_private=true&theme=compact)
 
 <a href="https://github.com/graysonm23">
