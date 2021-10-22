@@ -21,9 +21,6 @@ I'm Grayson
 
 ![Grayson's github stats](https://github-readme-stats.vercel.app/api?username=graysonm23&count_private=true&theme=compact)
 
-<a href="https://github.com/graysonm23">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=graysonm23&layout=compact&theme=compact" />
-</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=graysonm23&label=Profile%20views&color=0e75b6&style=flat" alt="graysonm23" /> </p>
 <!--
 **graysonm23/graysonm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
